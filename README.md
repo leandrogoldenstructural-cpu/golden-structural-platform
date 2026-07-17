@@ -1,0 +1,2 @@
+# golden-structural-platform
+vendas
