@@ -1,0 +1,44 @@
+GOLDEN STRUCTURAL PLATFORM™ ENTERPRISE 2026
+VALVE INTELLIGENCE + PDF
+
+NOVOS CAMPOS
+- Fabricante/marca da válvula.
+- Modelo.
+- Tipo de expansão:
+  - Balão expansiva.
+  - Auto expansível.
+  - Mecânica expansível.
+  - Cirúrgica.
+  - Outro.
+- Tamanho nominal em milímetros.
+- Categoria automática:
+  - Normal.
+  - Intermediário.
+  - XL.
+- Família: TAVI nativa, Valve-in-Valve, TAVI-in-TAVI, Valve-in-Ring,
+  Valve-in-MAC e pulmonar.
+- Plataforma/geração.
+- Observações da válvula.
+
+CLASSIFICAÇÃO PADRÃO
+- Intermediários: 21,5 / 24,5 / 27,5 / 30,5 mm.
+- XL: 29 / 30 / 32 / 34 mm.
+- Demais tamanhos: normais.
+
+RELATÓRIOS PDF
+- PDF individual de procedimento com os dados da válvula.
+- PDF consolidado de todos os procedimentos.
+- PDF Valve Intelligence com:
+  - quantidade por tamanho normal, intermediário e XL;
+  - distribuição por balão expansiva e auto expansível;
+  - distribuição por tamanho nominal;
+  - tabela detalhada de procedimentos.
+
+COMO USAR
+1. Substitua/publique todos os arquivos desta pasta juntos.
+2. Abra a plataforma.
+3. Em Procedimentos, edite os registros para completar marca, modelo e expansão.
+4. Abra Report Center.
+5. Escolha “Valve Intelligence — tamanhos e plataformas”.
+6. Clique em Gerar relatório.
+7. Clique em Imprimir / Salvar PDF.

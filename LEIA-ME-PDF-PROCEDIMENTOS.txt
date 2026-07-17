@@ -1,0 +1,25 @@
+GOLDEN STRUCTURAL PLATFORM™ ENTERPRISE 2026 — PDF DE PROCEDIMENTOS
+
+NOVIDADES
+- PDF individual de cada procedimento.
+- PDF consolidado de todos os procedimentos.
+- Botão PDF diretamente na tabela de procedimentos.
+- Relatório com paciente, hospital, convênio, equipe, segundo operador, proctor,
+  executivo, diagnóstico, acesso, fio-guia, balão, prótese, pós-dilatação,
+  Mammoth, report, crimper, complicações e conclusão.
+- Layout A4 com identidade Golden Structural.
+- Campo de assinatura e data de emissão.
+
+COMO GERAR
+1. Abra Procedimentos.
+2. Clique em PDF no caso desejado.
+3. Ou abra Report Center e escolha:
+   - Procedimento individual
+   - Todos os procedimentos
+4. Clique em Gerar relatório.
+5. Clique em Imprimir / Salvar PDF.
+6. No Android ou computador, selecione Salvar como PDF.
+
+IMPORTANTE
+Substitua/publice todos os arquivos juntos.
+A atualização não apaga os dados cadastrados.

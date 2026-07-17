@@ -1,0 +1,42 @@
+GOLDEN STRUCTURAL PLATFORM™ ENTERPRISE 2026 — CLINICAL DATA EDITION
+
+Esta versão mantém a interface Enterprise 2026 aprovada e agrega somente os dados
+pertinentes da planilha “Planilha de controle de procedimentos Geral 2026.xlsx”.
+
+DADOS PREPARADOS
+- 508 procedimentos realizados entre 2022 e julho de 2026.
+- 30 procedimentos pendentes ainda não encontrados no histórico realizado.
+- 538 registros clínicos e operacionais pertinentes.
+- Hospitais, médicos, segundos operadores, proctors e convênios são criados ou complementados.
+- Registros pendentes antigos que já apareceram no histórico realizado foram excluídos da importação para evitar duplicidade.
+
+NOVOS CAMPOS DO PROCEDIMENTO
+- Cidade.
+- Segundo operador.
+- Idade.
+- Executivo de contas.
+- Tipo/anatomia.
+- Diagnóstico.
+- Acesso e tipo de acesso.
+- Fio-guia.
+- Balão pré.
+- Tamanho da prótese.
+- Pós-dilatação.
+- Complicação/observação.
+- Tamanho Mammoth.
+- Report.
+- Crimper/responsável.
+- Origem do registro.
+
+COMO USAR
+1. Publique/substitua todos os arquivos desta pasta juntos.
+2. Abra a plataforma no mesmo navegador.
+3. Acesse Data Center.
+4. Faça um backup antes da importação.
+5. Clique em “Pré-visualizar” na Base de Procedimentos.
+6. Clique em “Importar / complementar procedimentos”.
+7. Confira People Hub, Hospital Hub, Convênios e Procedimentos.
+8. Exporte um novo backup após a validação.
+
+A importação não apaga os registros já cadastrados. Ela procura duplicidades por
+paciente + data + hospital e complementa campos vazios quando encontra o mesmo caso.

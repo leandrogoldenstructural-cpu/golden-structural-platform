@@ -1,0 +1,10 @@
+GOLDEN STRUCTURAL PLATFORM™ — RELATÓRIOS “TODOS” EM LISTAS
+
+Quando o usuário selecionar Todos os profissionais, Todos os hospitais,
+Todos os convênios ou Todos os procedimentos, o PDF será gerado em uma lista
+consolidada, com tabela contínua e compacta.
+
+Os relatórios individuais continuam detalhados.
+
+A lista de procedimentos inclui caso, data, paciente, hospital, médico,
+convênio, posição, válvula, tamanho, categoria, tipo de expansão e status.

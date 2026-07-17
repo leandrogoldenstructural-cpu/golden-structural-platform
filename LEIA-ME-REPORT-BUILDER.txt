@@ -1,0 +1,36 @@
+GOLDEN STRUCTURAL PLATFORM™ — REPORT BUILDER PERSONALIZÁVEL
+
+NOVIDADE
+Os relatórios em lista agora são opcionais e totalmente personalizáveis.
+
+É possível:
+- escolher os campos que aparecerão;
+- marcar todos ou limpar;
+- ordenar por data, nome, hospital, médico, convênio, cidade, tamanho ou expansão;
+- agrupar por hospital, médico, convênio, cidade, categoria ou expansão;
+- escolher orientação paisagem ou retrato;
+- incluir ou retirar resumo, totais e dados sensíveis;
+- usar layout compacto;
+- salvar modelos personalizados e reutilizá-los.
+
+RELATÓRIOS INDIVIDUAIS
+Continuam completos e detalhados.
+
+EXEMPLOS DE MODELOS
+- Diretoria;
+- Científico;
+- Myval;
+- Hospital;
+- Congresso;
+- Convênios;
+- Comercial;
+- Enfermagem.
+
+COMO USAR
+1. Abra Report Center.
+2. Selecione uma opção “Todos”.
+3. Marque apenas os campos desejados.
+4. Escolha ordenação e agrupamento.
+5. Clique em Gerar relatório.
+6. Revise a prévia.
+7. Clique em Imprimir / Salvar PDF.
